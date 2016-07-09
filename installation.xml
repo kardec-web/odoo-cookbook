@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<articles>
+	<article sequence="0" name="Récupérer le code source d'Odoo depuis git">
+		<category id="git"/>
+		<problem>Vous voulez récupérer le code source d'Odoo depuis git.</problem>
+		<solution version="8.0">git clone https://github.com/odoo/odoo.git -v 8.0</solution>
+		<solution version="9.0">git clone https://github.com/odoo/odoo.git -v 9.0</solution>
+		<discussion></discussion>
+	</article>
+
+	<article sequence="0" name="Connaitre les options disponibles dans odoo">
+		<category id="cmd"/>
+		<problem>Vous voulez connaitre les options disponible de l'éxécutable odoo.py</problem>
+		<solution>
+			<source code="bash">./odoo.py -h</source>
+		</solution>
+		<discussion></discussion>
+	</article>
+</articles>

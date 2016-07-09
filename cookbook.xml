@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cookbook name="Odoo Cookbook" author="Jérémy Hermand">
+<!-- https://www.safaribooksonline.com/library/view/xslt-cookbook/0596003722/index.html -->
+	<chapter id="installation" sequence="0">
+	</chapter>
+
+	<chapter id="website" sequence="0">
+	</chapter>
+</cookbook>

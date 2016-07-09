@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<articles>
+	<article sequence="" name="Finding the Position of a Substring">
+		<category id="website"/>
+		<problem>You want to find the index of a substring within a string rather than the text before or after the substring.</problem>
+		<solution version="8.0">Solution</solution>
+		<solution version="9.0">Solution</solution>
+		<discussion></discussion>
+	</article>
+</articles>
